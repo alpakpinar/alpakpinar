@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Alp!
-- 👀 I’m interested in ML and data analysis techniques, programming with Python, sometimes Javascript (React!)
+- 👀 I’m interested in ML and data analysis, programming with Python, sometimes Javascript (React!)
 - 🌱 I’m currently doing research on experimental high energy physics in the CMS experiment at CERN
 - 📫 How to reach me: alp.akpinar3@gmail.com
 
