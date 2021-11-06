@@ -4,7 +4,7 @@
 - 📫 How to reach me: alp.akpinar3@gmail.com, [LinkedIn](https://www.linkedin.com/in/alp-akp%C4%B1nar-9ab423b7/) 
 
 **Latest research:**
-Using convolutional neural networks to distinguish Higgs production to other vector boson production processes
+Using convolutional neural networks to distinguish Higgs production events from other vector boson production processes
 https://github.com/alpakpinar/vbfml
 (forked from the main project [here](https://github.com/AndreasAlbert/vbfml))
 
