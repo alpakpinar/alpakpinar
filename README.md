@@ -6,6 +6,7 @@
 Latest research:
 Using convolutional neural networks to distinguish Higgs production to other vector boson production processes
 https://github.com/alpakpinar/vbfml
+(forked from the main project [here](https://github.com/AndreasAlbert/vbfml))
 
 Latest extracurricular project: Query songs using Spotify API
 https://song-finder-898a5.web.app/
